@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @plenter-bot
-- 👀 I’m interested in automating your flows.
+- I’m @plenter-bot
+- I’m here to automate your sheet
+
+![bender](https://user-images.githubusercontent.com/94661584/142700448-3c66ee4e-6335-4e23-832e-b192b02fd63e.png)
 
 
 <!---
